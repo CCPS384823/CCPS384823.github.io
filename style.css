@@ -1,1 +1,6 @@
-
+p {
+  color: RGB (52, 171, 235);
+    text-align: center;
+    border: 2px, solid, RGB (73, 235, 137);
+    Padding: 10px;
+}
